@@ -1,0 +1,9 @@
+pymongo
+nsetools==1.0.11
+datetime
+requests
+pandas
+pymongo[srv]
+pymongo[tls,srv,gssapi,snappy]>=3.7.0b1
+dnspython
+bs4
